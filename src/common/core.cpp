@@ -296,13 +296,13 @@ static void display_title(void) {
 
 	ShowMessage("\n");
 	ShowMessage("" CL_PASS "     " CL_BOLD "                                                                 " CL_PASS"" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BT_WHITE "            4CrAM Development Team presents                  " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "                 ___   __  __                                    " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "           _____/   | / /_/ /_  ___  ____  ____ _                " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "          / ___/ /| |/ __/ __ \\/ _ \\/ __ \\/ __ `/                " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "         / /  / ___ / /_/ / / /  __/ / / / /_/ /                 " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BOLD "        /_/  /_/  |_\\__/_/ /_/\\___/_/ /_/\\__,_/                  " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
-	ShowMessage("" CL_PASS "     " CL_BT_WHITE "        With 4CrAM (4th Class rAthena Mod) Support              " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BT_WHITE "              4CrAM Development Team presents                " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "            ___     _____      ___     ___   ___                 " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "           / . |   / ___/_____/   |   /   | /   |                " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "          / /| |__/ /   / ___/ /| |  / /| |/ /| |                " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "         /___  __/ /___/ /  / ___ | / / |   / | |                " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BOLD "             |_|/_____/_/  /_/  |_|/_/  |__/  |_|                " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
+	ShowMessage("" CL_PASS "     " CL_BT_WHITE "                (4th Class rAthena Mod)                      " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
 	ShowMessage("" CL_PASS "     " CL_BOLD "                                                                 " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
 	ShowMessage("" CL_PASS "     " CL_GREEN "                                                                 " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
 	ShowMessage("" CL_PASS "     " CL_BOLD "                                                                 " CL_PASS "" CL_CLL "" CL_NORMAL "\n");
