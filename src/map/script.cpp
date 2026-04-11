@@ -25551,11 +25551,11 @@ struct script_function buildin_func[] = {
 	BUILDIN_DEF(activatepset,"i"), // Activate a pattern set [MouseJstr]
 	BUILDIN_DEF(deactivatepset,"i"), // Deactive a pattern set [MouseJstr]
 	BUILDIN_DEF(deletepset,"i"), // Delete a pattern set [MouseJstr]
-	BUILDIN_DEF(fakeplayer, "siisiiiiiiiiiiii"),
-		//frost
-	BUILDIN_DEF(addplayer, "siisiiiiiiiiiiii"),
-		// NPC interaction
-		BUILDIN_DEF(mes, "s*"),
+	//BUILDIN_DEF(fakeplayer, "siisiiiiiiiiiiii"),
+	//frost
+	//BUILDIN_DEF(addplayer, "siisiiiiiiiiiiii"),
+	// NPC interaction
+	BUILDIN_DEF(mes, "s*"),
 #endif
 	BUILDIN_DEF(preg_match,"ss?"),
 	BUILDIN_DEF(dispbottom,"s??"), //added from jA [Lupus]
